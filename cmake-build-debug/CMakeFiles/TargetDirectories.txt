@@ -1,3 +1,0 @@
-/home/yash/Documents/MTech/Thesis/Implementation/cmake-build-debug/CMakeFiles/Implementation.dir
-/home/yash/Documents/MTech/Thesis/Implementation/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/yash/Documents/MTech/Thesis/Implementation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
