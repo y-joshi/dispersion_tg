@@ -1,0 +1,8 @@
+0 settled on : 0 : 8
+1 settled on : 2 : 8
+2 settled on : 4 : 8
+3 settled on : 1 : 7
+4 settled on : 3 : 7
+5 settled on : 5 : 7
+6 settled on : 0 : 6
+7 settled on : 2 : 6
